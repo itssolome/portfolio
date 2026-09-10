@@ -125,14 +125,6 @@ export const Home = ({ theme }: HomeProps) => {
 					paragraph2="On the back-end side, I used Python as my main programming language and built robust, consumable APIs with FastAPI, focusing on clean architecture, performance, and easy integration with other services. I also implemented audio summarization services for both long and short recordings using artificial intelligence models from OpenAI and DeepSeek, helping automate information processing and text generation."
 					paragraph3="Throughout my projects, I followed good version control practices using Git, with GitHub as the main platform for hosting and collaboration. I also used GitHub Copilot to assist with parts of the development and improve productivity. Additionally, I worked with Docker to containerize applications, making deployments more consistent, portable, and efficient across environments."
 				/>
-				<HoverLinkExp
-					title="Toki System"
-					description="Web Full Stack developer (React.js)"
-					theme={theme}
-					paragraph1=""
-					paragraph2=""
-					paragraph3=""
-				/>
 			</section>
 
 			<section>
