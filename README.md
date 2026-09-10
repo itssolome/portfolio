@@ -118,5 +118,6 @@ pnpm run dev --host 0.0.0.0
 
 ## 📄 License
 
-This project is licensed under the MIT License.  
-Feel free to use it as a base for your own portfolio.
+This project is licensed under the MIT License.
+
+Note: The MIT License applies to the source code of this portfolio. Personal content, photographs, logos, trademarks, and other copyrighted materials are not covered by the MIT License unless explicitly stated otherwise.
