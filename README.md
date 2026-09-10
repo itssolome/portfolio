@@ -1,21 +1,122 @@
-# React + TypeScript + Vite + shadcn/ui
+# 🌐 Portfolio — Brayan Ocampo
 
-This is a template for a new Vite project with React, TypeScript, and shadcn/ui.
+Personal portfolio showcasing my projects, skills, and experience as a web developer.
 
-## Adding components
+---
 
-To add components to your app, run the following command:
+## 🚀 Live Demo
+
+👉 [View portfolio](https://about-thedarkmrx.is-a.dev)
+
+---
+
+## 📌 About the project
+
+This portfolio was built to present my work, the technologies I use, and my approach as a developer. It focuses on:
+
+- Clean and minimal design
+- Performance and accessibility
+- Full responsiveness across devices
+- Scalable and maintainable code
+
+---
+
+## 🛠 Tech Stack
+
+- React / Vite
+- TypeScript
+- CSS
+- Git & GitHub
+
+---
+
+## 📂 Project Structure
+
+```
+src
+├── App.tsx
+├── components
+│   ├── navbar.tsx
+│   ├── theme-provider.tsx
+│   └── ui
+│       ├── avatar.tsx
+│       ├── button.tsx
+│       ├── card-pro.tsx
+│       ├── card.tsx
+│       ├── drawer.tsx
+│       ├── hover-card.tsx
+│       ├── hover-link-con.tsx
+│       ├── hover-link-exp.tsx
+│       ├── hover-link-pro.tsx
+│       ├── hover-link-ser.tsx
+│       └── tooltip.tsx
+├── data
+│   └── experience.data.ts
+├── index.css
+├── lib
+│   └── utils.ts
+├── main.tsx
+├── pages
+│   └── home
+│       └── home.tsx
+└── routes.tsx
+```
+
+---
+
+## ⚙️ Installation & Usage
+
+Clone the repository:
 
 ```bash
-npx shadcn@latest add button
+git clone https://github.com/thedarkmrx/portfolio.git
 ```
 
-This will place the ui components in the `src/components` directory.
+Enter the project folder:
 
-## Using components
-
-To use the components in your app, import them as follows:
-
-```tsx
-import { Button } from "@/components/ui/button"
+```bash
+cd portfolio
 ```
+
+Install dependencies:
+
+```bash
+pnpm i
+```
+
+Run the development server:
+
+```bash
+pnpm run dev
+```
+
+If you want to run the project locally and allow anyone to access it, run:
+
+```bash
+pnpm run dev --host 0.0.0.0
+```
+
+---
+
+## ✨ Features
+
+- Responsive design
+- Smooth animations
+- Section-based navigation
+- Optimized loading
+- Modular architecture
+
+---
+
+## 📬 Contact
+
+- [Email](mailto:contact.ocampo.info@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/brayan-ocampo-lopez/)
+- [GitHub](https://github.com/thedarkmrx)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.  
+Feel free to use it as a base for your own portfolio.
